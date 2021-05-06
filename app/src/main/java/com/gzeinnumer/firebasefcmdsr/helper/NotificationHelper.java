@@ -1,4 +1,4 @@
-package com.gzeinnumer.firebasefcmdsr;
+package com.gzeinnumer.firebasefcmdsr.helper;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -6,6 +6,8 @@ import android.content.Context;
 import android.provider.Settings;
 
 import androidx.core.app.NotificationCompat;
+
+import com.gzeinnumer.firebasefcmdsr.R;
 
 public class NotificationHelper {
 

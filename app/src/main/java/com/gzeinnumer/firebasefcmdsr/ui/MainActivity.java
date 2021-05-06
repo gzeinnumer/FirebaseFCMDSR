@@ -1,14 +1,15 @@
-package com.gzeinnumer.firebasefcmdsr;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.gzeinnumer.firebasefcmdsr.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.firebase.iid.FirebaseInstanceId;
+import com.gzeinnumer.firebasefcmdsr.R;
+import com.gzeinnumer.firebasefcmdsr.service.FirebaseMessagingService;
 
 public class MainActivity extends AppCompatActivity {
 
