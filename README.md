@@ -22,7 +22,7 @@
 <manifest >
 
     <application
-        android:name=".MyApp"
+        android:name=".MyApp">
 
         <service
             android:name=".service.FirebaseMessagingService"
