@@ -1,7 +1,7 @@
 # FirebaseFCMDSR
  Work in DSR
 
- Tahap pertama ikuti sata Tools Firebase yang sudah disediakan oleh Android studio.
+ Tahap pertama ikuti saja Tools Firebase yang sudah disediakan oleh Android Studio.
 
 - [AndroidManifest.xml](https://github.com/gzeinnumer/FirebaseFCMDSR/blob/master/app/src/main/AndroidManifest.xml)
 - app
